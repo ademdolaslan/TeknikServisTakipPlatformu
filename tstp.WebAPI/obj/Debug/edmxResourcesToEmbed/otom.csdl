@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="otomModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="otomEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="view_teknik_servis" EntityType="otomModel.view_teknik_servis" />
+    <EntitySet Name="view_yedek_parca" EntityType="otomModel.view_yedek_parca" />
+  </EntityContainer>
+  <EntityType Name="view_teknik_servis">
+    <Key>
+      <PropertyRef Name="ariza_no" />
+    </Key>
+    <Property Name="ariza_no" Type="Int32" Nullable="false" />
+    <Property Name="musteri_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="musteri_soyadi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="musteri_telefon" Type="Int32" />
+    <Property Name="ariza_tanim" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="ariza_cozum" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="ariza_cihaz" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="personel_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="personel_soyadi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="view_yedek_parca">
+    <Key>
+      <PropertyRef Name="parca_no" />
+    </Key>
+    <Property Name="parca_no" Type="Int32" Nullable="false" />
+    <Property Name="parca_ismi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="parca_marka" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="parca_model" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="parca_stok" Type="Int32" />
+    <Property Name="parca_fiyat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="parca_tur" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

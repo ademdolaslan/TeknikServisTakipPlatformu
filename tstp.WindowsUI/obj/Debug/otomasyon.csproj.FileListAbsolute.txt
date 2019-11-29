@@ -1,0 +1,35 @@
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\otomasyon\otomasyon\bin\Debug\otomasyon.exe
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\otomasyon\otomasyon\bin\Debug\otomasyon.pdb
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.csprojResolveAssemblyReference.cache
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.login.resources
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.Cache
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.signin.resources
+C:\Users\Adem Dölaslan\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.anasayfa.resources
+C:\Users\Adem Dölaslan\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.check.resources
+C:\Users\Adem Dölaslan\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.depo.resources
+C:\Users\Adem Dölaslan\documents\visual studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.teknik_servis.resources
+C:\Users\Adem Dölaslan\Documents\Visual Studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.fatura_ekranı.resources
+C:\Users\Adem Dölaslan\Documents\Visual Studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.ürün_alim.resources
+C:\Users\Adem Dölaslan\Documents\Visual Studio 2015\Projects\otomasyon\otomasyon\obj\Debug\otomasyon.ürün_satis.resources
+C:\proje\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+C:\proje\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.exe
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.pdb
+C:\proje\otomasyon_desktop\otomasyon\bin\Debug\otomasyon.exe
+C:\proje\otomasyon_desktop\otomasyon\bin\Debug\otomasyon.pdb
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.csprojResolveAssemblyReference.cache
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.anasayfa.resources
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.check.resources
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.depo.resources
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.login.resources
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.signin.resources
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.teknik_servis.resources
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.ürün_alim.resources
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.ürün_satis.resources
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.Cache
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.satis_fatura.resources
+C:\proje\otomasyon_desktop\otomasyon\obj\Debug\otomasyon.ts_fatura.resources

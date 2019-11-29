@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="otomModelStoreContainer" CdmEntityContainer="otomEntities">
+    <EntitySetMapping Name="view_teknik_servis">
+      <EntityTypeMapping TypeName="otomModel.view_teknik_servis">
+        <MappingFragment StoreEntitySet="view_teknik_servis">
+          <ScalarProperty Name="personel_soyadi" ColumnName="personel_soyadi" />
+          <ScalarProperty Name="personel_adi" ColumnName="personel_adi" />
+          <ScalarProperty Name="ariza_cihaz" ColumnName="ariza_cihaz" />
+          <ScalarProperty Name="ariza_cozum" ColumnName="ariza_cozum" />
+          <ScalarProperty Name="ariza_tanim" ColumnName="ariza_tanim" />
+          <ScalarProperty Name="musteri_telefon" ColumnName="musteri_telefon" />
+          <ScalarProperty Name="musteri_soyadi" ColumnName="musteri_soyadi" />
+          <ScalarProperty Name="musteri_adi" ColumnName="musteri_adi" />
+          <ScalarProperty Name="ariza_no" ColumnName="ariza_no" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="view_yedek_parca">
+      <EntityTypeMapping TypeName="otomModel.view_yedek_parca">
+        <MappingFragment StoreEntitySet="view_yedek_parca">
+          <ScalarProperty Name="parca_tur" ColumnName="parca_tur" />
+          <ScalarProperty Name="parca_fiyat" ColumnName="parca_fiyat" />
+          <ScalarProperty Name="parca_stok" ColumnName="parca_stok" />
+          <ScalarProperty Name="parca_model" ColumnName="parca_model" />
+          <ScalarProperty Name="parca_marka" ColumnName="parca_marka" />
+          <ScalarProperty Name="parca_ismi" ColumnName="parca_ismi" />
+          <ScalarProperty Name="parca_no" ColumnName="parca_no" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

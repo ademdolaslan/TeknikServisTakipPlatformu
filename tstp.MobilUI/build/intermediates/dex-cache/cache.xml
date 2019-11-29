@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\proje\Otomasyon_mobil\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31c49514b4ac287fc592f7693a09e475bd6758ce">
+        <dex dex="C:\proje\Otomasyon_mobil\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_abcd4f68737d24358403109b15d24d82d851192a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\proje\Otomasyon_mobil\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\proje\Otomasyon_mobil\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9f9571638bf89271b54e7e3fa0060f92fffd94e9\classes.dex" />
+    </item>
+
+</items>

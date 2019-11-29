@@ -1,0 +1,126 @@
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\ApplicationInsights.config
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\roslyn\csc.exe
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\roslyn\System.Collections.Immutable.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\roslyn\vbc.exe
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\roslyn\VBCSCompiler.exe
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\roslyn\VBCSCompiler.exe.config
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\sunucu.dll.config
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\sunucu.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\sunucu.pdb
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Antlr3.Runtime.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\EntityFramework.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\EntityFramework.SqlServer.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.AI.Web.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.AI.WindowsServer.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.ApplicationInsights.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.Web.Infrastructure.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Newtonsoft.Json.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Net.Http.Formatting.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.Helpers.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.Http.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.Http.WebHost.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.Mvc.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.Optimization.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.Razor.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.WebPages.Deployment.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.WebPages.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.WebPages.Razor.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\WebGrease.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\EntityFramework.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\EntityFramework.SqlServer.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.AI.Web.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.AI.WindowsServer.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.ApplicationInsights.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Newtonsoft.Json.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Net.Http.Formatting.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.Helpers.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.Http.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.Http.WebHost.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.Mvc.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.Optimization.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.Razor.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.WebPages.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.WebPages.Deployment.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\System.Web.WebPages.Razor.xml
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\bin\Antlr3.Runtime.pdb
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\obj\Debug\sunucu.dll
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\obj\Debug\sunucu.pdb
+c:\users\adem dölaslan\documents\visual studio 2015\Projects\sunucu\sunucu\obj\Debug\sunucu.csprojResolveAssemblyReference.cache
+C:\proje\sunucu\sunucu\bin\ApplicationInsights.config
+C:\proje\sunucu\sunucu\bin\roslyn\csc.exe
+C:\proje\sunucu\sunucu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\proje\sunucu\sunucu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\proje\sunucu\sunucu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\proje\sunucu\sunucu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\proje\sunucu\sunucu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\proje\sunucu\sunucu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\proje\sunucu\sunucu\bin\roslyn\System.Collections.Immutable.dll
+C:\proje\sunucu\sunucu\bin\roslyn\System.Reflection.Metadata.dll
+C:\proje\sunucu\sunucu\bin\roslyn\vbc.exe
+C:\proje\sunucu\sunucu\bin\roslyn\VBCSCompiler.exe
+C:\proje\sunucu\sunucu\bin\roslyn\VBCSCompiler.exe.config
+C:\proje\sunucu\sunucu\bin\sunucu.dll.config
+C:\proje\sunucu\sunucu\bin\sunucu.dll
+C:\proje\sunucu\sunucu\bin\sunucu.pdb
+C:\proje\sunucu\sunucu\bin\Antlr3.Runtime.dll
+C:\proje\sunucu\sunucu\bin\EntityFramework.dll
+C:\proje\sunucu\sunucu\bin\EntityFramework.SqlServer.dll
+C:\proje\sunucu\sunucu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\proje\sunucu\sunucu\bin\Microsoft.AI.DependencyCollector.dll
+C:\proje\sunucu\sunucu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\proje\sunucu\sunucu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\proje\sunucu\sunucu\bin\Microsoft.AI.Web.dll
+C:\proje\sunucu\sunucu\bin\Microsoft.AI.WindowsServer.dll
+C:\proje\sunucu\sunucu\bin\Microsoft.ApplicationInsights.dll
+C:\proje\sunucu\sunucu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\proje\sunucu\sunucu\bin\Microsoft.Web.Infrastructure.dll
+C:\proje\sunucu\sunucu\bin\Newtonsoft.Json.dll
+C:\proje\sunucu\sunucu\bin\System.Net.Http.Formatting.dll
+C:\proje\sunucu\sunucu\bin\System.Web.Helpers.dll
+C:\proje\sunucu\sunucu\bin\System.Web.Http.dll
+C:\proje\sunucu\sunucu\bin\System.Web.Http.WebHost.dll
+C:\proje\sunucu\sunucu\bin\System.Web.Mvc.dll
+C:\proje\sunucu\sunucu\bin\System.Web.Optimization.dll
+C:\proje\sunucu\sunucu\bin\System.Web.Razor.dll
+C:\proje\sunucu\sunucu\bin\System.Web.WebPages.Deployment.dll
+C:\proje\sunucu\sunucu\bin\System.Web.WebPages.dll
+C:\proje\sunucu\sunucu\bin\System.Web.WebPages.Razor.dll
+C:\proje\sunucu\sunucu\bin\WebGrease.dll
+C:\proje\sunucu\sunucu\bin\EntityFramework.xml
+C:\proje\sunucu\sunucu\bin\EntityFramework.SqlServer.xml
+C:\proje\sunucu\sunucu\bin\Microsoft.AI.DependencyCollector.xml
+C:\proje\sunucu\sunucu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\proje\sunucu\sunucu\bin\Microsoft.AI.Web.xml
+C:\proje\sunucu\sunucu\bin\Microsoft.AI.WindowsServer.xml
+C:\proje\sunucu\sunucu\bin\Microsoft.ApplicationInsights.xml
+C:\proje\sunucu\sunucu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\proje\sunucu\sunucu\bin\Newtonsoft.Json.xml
+C:\proje\sunucu\sunucu\bin\System.Net.Http.Formatting.xml
+C:\proje\sunucu\sunucu\bin\System.Web.Helpers.xml
+C:\proje\sunucu\sunucu\bin\System.Web.Http.xml
+C:\proje\sunucu\sunucu\bin\System.Web.Http.WebHost.xml
+C:\proje\sunucu\sunucu\bin\System.Web.Mvc.xml
+C:\proje\sunucu\sunucu\bin\System.Web.Optimization.xml
+C:\proje\sunucu\sunucu\bin\System.Web.Razor.xml
+C:\proje\sunucu\sunucu\bin\System.Web.WebPages.xml
+C:\proje\sunucu\sunucu\bin\System.Web.WebPages.Deployment.xml
+C:\proje\sunucu\sunucu\bin\System.Web.WebPages.Razor.xml
+C:\proje\sunucu\sunucu\bin\Antlr3.Runtime.pdb
+C:\proje\sunucu\sunucu\obj\Debug\sunucu.csprojResolveAssemblyReference.cache
+C:\proje\sunucu\sunucu\obj\Debug\sunucu.dll
+C:\proje\sunucu\sunucu\obj\Debug\sunucu.pdb

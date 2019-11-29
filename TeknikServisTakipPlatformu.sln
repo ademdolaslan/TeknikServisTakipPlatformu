@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tstp.WebAPI", "tstp.WebAPI\tstp.WebAPI.csproj", "{AD94F839-F3CF-4807-84FA-C16DECFE12BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tstp.WindowsUI", "tstp.WindowsUI\tstp.WindowsUI.csproj", "{633718DB-604A-4ED5-B5FD-C774C8C78615}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tstp.MobileUI", "tstp.MobileUI", "{2A6F18CE-5864-42B8-BE19-A92468051423}"
+	ProjectSection(SolutionItems) = preProject
+		tstp.MobilUI.rar = tstp.MobilUI.rar
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Report", "Report", "{C26FC39A-7A7A-4EB5-8022-06BCF4EFB040}"
+	ProjectSection(SolutionItems) = preProject
+		Teknik Servis Takip Platformu Report.pdf = Teknik Servis Takip Platformu Report.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD94F839-F3CF-4807-84FA-C16DECFE12BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD94F839-F3CF-4807-84FA-C16DECFE12BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD94F839-F3CF-4807-84FA-C16DECFE12BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD94F839-F3CF-4807-84FA-C16DECFE12BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633718DB-604A-4ED5-B5FD-C774C8C78615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633718DB-604A-4ED5-B5FD-C774C8C78615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633718DB-604A-4ED5-B5FD-C774C8C78615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633718DB-604A-4ED5-B5FD-C774C8C78615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEAA7F67-656A-4806-91AB-B8541468F831}
+	EndGlobalSection
+EndGlobal

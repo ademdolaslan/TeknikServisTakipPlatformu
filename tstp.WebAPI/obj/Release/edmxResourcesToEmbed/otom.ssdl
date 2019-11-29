@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="otomModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'otom.dbo.view_teknik_servis' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="view_teknik_servis">
+    <Key>
+      <PropertyRef Name="ariza_no" />
+    </Key>
+    <Property Name="ariza_no" Type="int" Nullable="false" />
+    <Property Name="musteri_adi" Type="nvarchar" MaxLength="50" />
+    <Property Name="musteri_soyadi" Type="nvarchar" MaxLength="50" />
+    <Property Name="musteri_telefon" Type="int" />
+    <Property Name="ariza_tanim" Type="nvarchar" MaxLength="250" />
+    <Property Name="ariza_cozum" Type="nvarchar" MaxLength="250" />
+    <Property Name="ariza_cihaz" Type="nvarchar" MaxLength="100" />
+    <Property Name="personel_adi" Type="nvarchar" MaxLength="50" />
+    <Property Name="personel_soyadi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'otom.dbo.view_yedek_parca' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="view_yedek_parca">
+    <Key>
+      <PropertyRef Name="parca_no" />
+    </Key>
+    <Property Name="parca_no" Type="int" Nullable="false" />
+    <Property Name="parca_ismi" Type="nvarchar" MaxLength="50" />
+    <Property Name="parca_marka" Type="nvarchar" MaxLength="50" />
+    <Property Name="parca_model" Type="nvarchar" MaxLength="50" />
+    <Property Name="parca_stok" Type="int" />
+    <Property Name="parca_fiyat" Type="nvarchar" MaxLength="50" />
+    <Property Name="parca_tur" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="otomModelStoreContainer">
+    <EntitySet Name="view_teknik_servis" EntityType="Self.view_teknik_servis" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [view_teknik_servis].[ariza_no] AS [ariza_no], 
+    [view_teknik_servis].[musteri_adi] AS [musteri_adi], 
+    [view_teknik_servis].[musteri_soyadi] AS [musteri_soyadi], 
+    [view_teknik_servis].[musteri_telefon] AS [musteri_telefon], 
+    [view_teknik_servis].[ariza_tanim] AS [ariza_tanim], 
+    [view_teknik_servis].[ariza_cozum] AS [ariza_cozum], 
+    [view_teknik_servis].[ariza_cihaz] AS [ariza_cihaz], 
+    [view_teknik_servis].[personel_adi] AS [personel_adi], 
+    [view_teknik_servis].[personel_soyadi] AS [personel_soyadi]
+    FROM [dbo].[view_teknik_servis] AS [view_teknik_servis]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="view_yedek_parca" EntityType="Self.view_yedek_parca" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [view_yedek_parca].[parca_no] AS [parca_no], 
+    [view_yedek_parca].[parca_ismi] AS [parca_ismi], 
+    [view_yedek_parca].[parca_marka] AS [parca_marka], 
+    [view_yedek_parca].[parca_model] AS [parca_model], 
+    [view_yedek_parca].[parca_stok] AS [parca_stok], 
+    [view_yedek_parca].[parca_fiyat] AS [parca_fiyat], 
+    [view_yedek_parca].[parca_tur] AS [parca_tur]
+    FROM [dbo].[view_yedek_parca] AS [view_yedek_parca]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

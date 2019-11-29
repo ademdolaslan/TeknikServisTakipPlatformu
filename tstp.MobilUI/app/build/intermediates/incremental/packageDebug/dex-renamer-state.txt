@@ -1,0 +1,7 @@
+#Fri May 19 05:54:13 EEST 2017
+base.0=C\:\\proje\\Otomasyon_mobil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_abcd4f68737d24358403109b15d24d82d851192a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\proje\\Otomasyon_mobil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9f9571638bf89271b54e7e3fa0060f92fffd94e9\\classes.dex
+base.1=C\:\\proje\\Otomasyon_mobil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9f9571638bf89271b54e7e3fa0060f92fffd94e9
+file.0=C\:\\proje\\Otomasyon_mobil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_abcd4f68737d24358403109b15d24d82d851192a\\classes.dex
